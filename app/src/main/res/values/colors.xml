@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondo de pantalla y contenedores generales -->
+    <color name="fondo_pantalla">#1F161A</color>
+    <color name="fondo_calculadora">#2D1E24</color>
+    <color name="fondo_pantalla_txt">#452C36</color>
+    <color name="texto_pantalla">#FFFFFF</color>
+
+    <!-- Botones Tipo 1 -->
+    <color name="btn_num_bg">#FFB6C1</color>
+    <color name="btn_num_pressed">#E598A8</color>
+    <color name="btn_num_stroke">#C77C8D</color>
+
+    <!-- Botones Tipo 2 -->
+    <color name="btn_op_bg">#FF69B4</color>
+    <color name="btn_op_pressed">#D64F95</color>
+    <color name="btn_op_stroke">#B03375</color>
+
+    <!-- Botones Tipo 3 y DEL -->
+    <color name="btn_del_bg">#FF1493</color>
+    <color name="btn_del_pressed">#C71075</color>
+    <color name="btn_del_stroke">#910952</color>
+</resources>
